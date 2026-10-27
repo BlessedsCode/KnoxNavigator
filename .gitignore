@@ -1,0 +1,13 @@
+tools/cache/
+tools/runtime/
+tools/decompiled/
+tools/*.class
+tools/cfr.jar
+KnoxNavigator.zip
+__pycache__/
+dist/
+KnoxNavigator/42/media/textures/
+site-reference.js
+site-reference.html
+streets-reference.json
+preview-before.png

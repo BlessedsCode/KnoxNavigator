@@ -1,0 +1,37 @@
+[
+  {
+    "case": "Riverside local",
+    "points": 9,
+    "distance": 237.76016294839104,
+    "ticks": 1,
+    "seconds": 0.001
+  },
+  {
+    "case": "West Point to Muldraugh",
+    "points": 76,
+    "distance": 4160.749350086168,
+    "ticks": 18,
+    "seconds": 0.061
+  },
+  {
+    "case": "Rosewood to Muldraugh",
+    "points": 42,
+    "distance": 4228.984848098351,
+    "ticks": 17,
+    "seconds": 0.056
+  },
+  {
+    "case": "Riverside to West Point",
+    "points": 248,
+    "distance": 7523.011613731448,
+    "ticks": 19,
+    "seconds": 0.076
+  },
+  {
+    "case": "Muldraugh to Louisville",
+    "points": 126,
+    "distance": 10168.64894077967,
+    "ticks": 52,
+    "seconds": 0.204
+  }
+]

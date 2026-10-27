@@ -1,0 +1,10 @@
+Knox Navigator — local vehicle GPS for Project Zomboid Build 42.
+
+Map imagery and POI catalogue: https://projectzomboidmap.com/
+Offline snapshot: https://tiles.projectzomboidmap.com/maps/b42.20.2-r1/
+The website credits pzmap2dzi (https://github.com/cff29546/pzmap2dzi) for map rendering.
+Road data: the user's installed Project Zomboid Build 42.21 map files.
+
+This local project is not affiliated with The Indie Stone or the map website.
+Third-party images and data retain their original rights; this package does
+not claim ownership of them or grant a new licence for them.
